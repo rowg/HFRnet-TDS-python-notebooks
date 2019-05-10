@@ -1,3 +1,6 @@
+*.csv
+*.nc
+*.zip
 totalCount.nc
 HFRnetTotalCoverage.ipynb
 .ipynb_checkpoints/
